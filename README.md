@@ -1,2 +1,3 @@
 # adegbiji.github.io
-Bored website repository.
+Bored web app repository.
+Web app made using HTML, CSS & Javascript. And used Bored Api.
